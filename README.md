@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34147113/README.md)
 # IAM Access Review and Audit
 
 ## Project overview
