@@ -112,3 +112,20 @@ This project is designed for learning and portfolio demonstration. All sample da
 ## Skills Demonstrated
 
 Identity and Access Management (IAM) · Role-Based Access Control (RBAC) · Access Reviews · Python · pandas · Audit Documentation · Compliance Monitoring · Security Governance · Remediation Tracking
+
+## Project in Action
+
+![IAM access review script output](iam-access-review-output.png)
+
+## Testing and Validation
+
+The project was tested using synthetic user-access records to validate its access-control checks.
+
+### RBAC Exception Test
+
+- **Test scenario:** Added a permission outside the defined role-permission baseline for a synthetic user.
+- **Expected result:** The script should flag the permission as a potential RBAC exception.
+- **Actual result:** The script generated a `Permission outside role baseline` finding.
+- **Outcome:** Passed.
+
+This test demonstrates that the script can identify permissions that do not match the configured role baseline. Findings require further review before any access changes are made.
