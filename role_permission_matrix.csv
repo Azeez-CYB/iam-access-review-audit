@@ -1,0 +1,8 @@
+job_role,allowed_permissions
+Finance Analyst,Read Finance; Payment Initiator
+Finance Manager,Read Finance; Payment Approver
+Systems Administrator,Standard User; Privileged Admin
+HR Adviser,Read HR; Standard User
+Service Desk Analyst,Standard User; Password Reset Admin
+Operations Analyst,Standard User; Read Operations
+IT Support Analyst,Standard User

@@ -1,0 +1,16 @@
+user_id,user_name,department,job_role,employment_status,last_login_date,assigned_permissions,privileged_access_approved
+U001,Alex Morgan,Finance,Finance Analyst,Active,2026-10-20,Read Finance; Payment Initiator,No
+U002,Sam Patel,Finance,Finance Manager,Active,2026-10-24,Read Finance; Payment Initiator; Payment Approver,Yes
+U003,Jamie Reed,IT,Systems Administrator,Active,2026-10-26,Read Finance; Standard User; Privileged Admin,Yes
+U004,Taylor Brooks,HR,HR Adviser,Active,2026-09-30,Read HR; Standard User,No
+U005,Jordan Ellis,Finance,Finance Analyst,Leaver,2026-07-12,Read Finance; Payment Initiator,No
+U006,Casey Ahmed,Operations,Operations Analyst,Active,2026-05-01,Standard User; Read Operations,No
+U007,Riley Chen,IT,Service Desk Analyst,Active,2026-10-21,Standard User; Password Reset Admin,No
+U008,Morgan James,Finance,Finance Analyst,Active,2026-10-22,Read Finance; Payment Approver,No
+U009,Drew Wilson,HR,HR Adviser,Active,2026-10-25,Read HR; Payroll Admin,No
+U010,Avery Khan,Operations,Operations Analyst,Active,2026-10-27,Standard User; Read Operations,No
+U011,Robin Scott,IT,IT Support Analyst,Active,2026-01-15,Standard User; Read Finance,No
+U012,Cameron Lee,Finance,Finance Manager,Active,2026-10-23,Read Finance; Payment Approver,Yes
+U013,Quinn Taylor,Operations,Operations Analyst,Leaver,2026-08-03,Standard User; Read Operations,No
+U014,Skylar Evans,IT,Systems Administrator,Active,2026-10-19,Standard User; Privileged Admin,No
+U015,Parker Ali,Finance,Finance Analyst,Active,2026-10-18,Read Finance; Payment Initiator; Payment Approver,No

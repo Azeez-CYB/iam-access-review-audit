@@ -1,0 +1,6 @@
+
+finding_id,account_id,finding_category,priority,remediation_action,owner,status,review_date,resolution_date
+F001,USR002,Permission outside role baseline,Medium,Verify business need and approval with the access owner; remove access if it is not justified,IAM Team,Open,2026-10-28,
+F002,USR003,Permission outside of role baseline,Medium,Verify business need and approval with the access owner; remove access if it is not justified,IAM Team,Open,2026-10-28,
+F003,USR004,Leaver account,High,Confirm the account is disabled and access revoked; retain evidence of completion,IAM Team,Open,2026-10-28,
+F004,USR005,Dormant account,Medium,Confirm access is still required; remove or disable it if no longer required,IAM Team,Open,2026-10-28,
